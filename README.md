@@ -36,13 +36,20 @@
 
 
 
-Methodology
+## Methodology
 
 
 
+<ol>
+  <li>Data Scraping:</li>
+    <ul>
+      <Li>Identified target websites containing relevant data.</li>
+      <li>Developed scripts to scrape data, ensuring compliance with the website's terms of service.</li>
+      <li>Cleaned and structured the scraped data for further analysis.</Li>
+    </ul>
+</ol>
 
 
-Data Scraping:
 
 
 
