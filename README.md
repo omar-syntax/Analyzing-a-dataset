@@ -20,17 +20,19 @@
 
 
 
-
-
-Beautiful Soup: For parsing HTML and XML documents.
-
-
-
-Requests: For making HTTP requests to retrieve web pages.
+<ul>
+  <li>Beautiful Soup: For parsing HTML and XML documents.</li>
 
 
 
-Pandas: For data manipulation and analysis.
+  <li>Requests: For making HTTP requests to retrieve web pages.</li>
+
+
+
+  <li>Pandas: For data manipulation and analysis.</li>
+
+
+</ul>
 
 
 
