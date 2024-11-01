@@ -22,23 +22,11 @@
 
 <ul>
   <li>Beautiful Soup: For parsing HTML and XML documents.</li>
-
-
-
   <li>Requests: For making HTTP requests to retrieve web pages.</li>
-
-
-
   <li>Pandas: For data manipulation and analysis.</li>
-
-
 </ul>
 
-
-
 ## Methodology
-
-
 
 <ol>
   <li>Data Scraping:</li>
@@ -46,6 +34,12 @@
       <Li>Identified target websites containing relevant data.</li>
       <li>Developed scripts to scrape data, ensuring compliance with the website's terms of service.</li>
       <li>Cleaned and structured the scraped data for further analysis.</Li>
+    </ul>
+  <li>Data Cleaning:</li>
+    <ul>
+      <li>Removed duplicates and irrelevant entries.</li>
+      <li>Handled missing values through imputation or removal.</li>
+      <li>Standardized data formats for consistency.</li>
     </ul>
 </ol>
 
