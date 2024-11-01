@@ -8,15 +8,15 @@
 
 
 
-Project Overview
+## Project Overview
 
-This project focuses on analyzing a substantial dataset obtained through data scraping. The goal was to uncover trends, patterns, and insights that could inform decision-making processes. The dataset encompasses various attributes that are crucial for the analysis.
+#### This project focuses on analyzing a substantial dataset obtained through data scraping. The goal was to uncover trends, patterns, and insights that could inform decision-making processes. The dataset encompasses various attributes that are crucial for the analysis.
 
 
 
-Data Sources
+## Data Sources
 
-The primary data source for this analysis was obtained through web scraping. The following tools and libraries were utilized:
+#### The primary data source for this analysis was obtained through web scraping. The following tools and libraries were utilized:
 
 
 
